@@ -10,14 +10,6 @@
 - 本书是事实上的 《Java 编程思想》第五版。
 - 《Java 编程思想》第四版基于 JAVA **5** 版本；《On Java 8》 基于 JAVA **8** 版本。
 
-## 传送门
-
-- 目录阅读：[进入](https://github.com/LingCoder/OnJava8/blob/master/SUMMARY.md)
-
-- GitHub Pages 完整阅读：[进入](https://lingcoder.github.io/OnJava8/)
-
-- Gitee Pages 完整阅读：[进入](https://lingcoder.gitee.io/onjava8/)
-
 ## 翻译进度
 
 - [x] [前言](docs/book/00-Preface.md)
