@@ -1,5 +1,9 @@
 # 《On Java 8》中文版
 
+## 通知
+
+图灵要出 On Java 8 的中文版了！想要继续关注本书出版进度，请访问图灵社区：[https://www.ituring.com.cn/book/2935](https://www.ituring.com.cn/book/2935) 
+
 ## 书籍简介
 
 - 本书原作者为 [美] Bruce Eckel，即《Java 编程思想》的作者。
